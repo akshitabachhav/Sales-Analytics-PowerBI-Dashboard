@@ -49,7 +49,7 @@ This project provided practical experience in building interactive dashboards, w
 - Power BI data modeling.
 
 ## 🖥️ Dashboard Preview
-![Mobile Sales Dashboard](screenshots 2026-11-24/dashboard.png)
+![Mobile Sales Dashboard](screenshots 2026-11-24 004204/dashboard.png)
 
 ## 🚀 How to View the Dashboard
 
