@@ -49,7 +49,7 @@ This project provided practical experience in building interactive dashboards, w
 - Power BI data modeling.
 
 ## 🖥️ Dashboard Preview
-![Mobile Sales Dashboard](screenshots/dashboard.png)
+![Mobile Sales Dashboard](screenshots 2026-11-24/dashboard.png)
 
 ## 🚀 How to View the Dashboard
 
@@ -73,10 +73,6 @@ This project provided practical experience in building interactive dashboards, w
 This project was developed after completing a 7-hour Power BI Masterclass by **Satish Dhawale**.
 
 It provided hands-on experience in applying Power BI concepts to a practical dashboard project and strengthened my understanding of interactive dashboard development and data analytics.
-
-## 👩‍💻 Author
-
-**Akshita Bachhav**
 
 [LinkedIn](https://www.linkedin.com/in/akshita-bachhav-6b715a302/)
 
