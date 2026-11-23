@@ -22,8 +22,6 @@ This project provided practical experience in building interactive dashboards, w
 - **Data Status:** Pre-cleaned dataset
 - **Usage:** Used as the source for developing the Power BI dashboard.
 
-*Note: The original dataset is not included in this repository.*
-
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
@@ -54,7 +52,7 @@ This project provided practical experience in building interactive dashboards, w
 
 Add your dashboard screenshot here:
 
-`![Mobile Sales Dashboard](screenshots/dashboard.png)`
+![Mobile Sales Dashboard](screenshots/dashboard.png)
 
 ## 🚀 How to View the Dashboard
 
