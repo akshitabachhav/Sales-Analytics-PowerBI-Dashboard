@@ -49,7 +49,7 @@ This project provided practical experience in building interactive dashboards, w
 - Power BI data modeling.
 
 ## 🖥️ Dashboard Preview
-https://github.com/akshitabachhav/Sales-Analytics-PowerBI-Dashboard/blob/main/Screenshot%202026-11-24%20004204.png
+![Mobile Sales Dashboard](Screenshot%202026-11-24%20004204.png)
 
 ## 🚀 How to View the Dashboard
 
